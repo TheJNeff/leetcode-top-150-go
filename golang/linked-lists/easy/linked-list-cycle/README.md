@@ -32,7 +32,8 @@ public class Solution {
         if (head == null) {
             return false;
         }
-        Map<ListNode, Integer> visitedNodes = new HashMap();
+        Map<ListNode, Integer> visitedNodes = new 
+HashMap();
         ListNode current = head;
         while(visitedNodes.get(current) == null) {
             visitedNodes.put(current, 1);
