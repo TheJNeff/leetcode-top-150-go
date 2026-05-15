@@ -15,7 +15,7 @@ class Solution {
         ListNode dummy = new ListNode();
         ListNode current = dummy;
         ListNode next = null;
-
+        System.out.println("Make a change");
         do {
             int l1Val = l1 != null ? l1.val : 0;
             int l2Val = l2 != null ? l2.val : 0;
