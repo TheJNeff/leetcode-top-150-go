@@ -8,6 +8,6 @@
 
 | Metric  | Result |
 |---------|--------|
-| Runtime | 69 ms (beats 7.9% of submissions) |
-| Memory  | 48.02 MB (beats 7.8% of submissions) |
+| Runtime | 3 ms (beats 83.1% of submissions) |
+| Memory  | 45.22 MB (beats 84.2% of submissions) |
 
